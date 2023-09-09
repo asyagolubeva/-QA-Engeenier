@@ -6,6 +6,7 @@
   <a href="https://drive.google.com/file/d/1zCip5YWKbi3Z8usup8wL2aqccxBEo-5x/view?usp=sharing">
     <img src="https://img.shields.io/badge/Моё резюме-blue?style=for-the-badge&logo=Моё резюме&logoColor=white" alt="Моё резюме Badge"/>
   </a>
+  
   ## Сертификаты
 <a href="https://drive.google.com/file/d/1yIhHyuRwSH23M5OqVx59GGLPwgu_xIrX/view?usp=sharing">Удостоверение о повышении квалификации"</a>
 
