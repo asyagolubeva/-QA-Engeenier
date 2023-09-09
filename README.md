@@ -8,7 +8,7 @@
   </a>
   
   ## Сертификаты
-<a href="https://drive.google.com/file/d/1yIhHyuRwSH23M5OqVx59GGLPwgu_xIrX/view?usp=sharing">Удостоверение о повышении квалификации"</a>
+<a href="https://drive.google.com/file/d/1yIhHyuRwSH23M5OqVx59GGLPwgu_xIrX/view?usp=sharing">Удостоверение о повышении квалификации</a>
 
 ## Навыки и технологии
 ``Atlassian Jira``,``qase.io``,``SQL``, ``PostgreSQL``, `` Postman``, ``Swagger``, ``Trello``, <br>
