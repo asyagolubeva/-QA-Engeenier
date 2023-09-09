@@ -2,6 +2,10 @@
 
 ## Обо мне 
 Привет! Меня зовут Анастасия, я Junior Manual QA, действующий младший тестировщик компании Яндекс Крауд. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики. <br>
+<ol><div id="badges">
+  <a href="https://drive.google.com/file/d/1zCip5YWKbi3Z8usup8wL2aqccxBEo-5x/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Моё резюме-blue?style=for-the-badge&logo=Моё резюме&logoColor=white" alt="Моё резюме Badge"/>
+  </a>
 
 ## Навыки и технологии
 ``Atlassian Jira``,``qase.io``,``SQL``, ``PostgreSQL``, `` Postman``, ``Swagger``, ``Trello``, <br>
@@ -24,7 +28,7 @@
 <p>-Тестирование API</p>
 <p>-Приемочное тестирование</p>
 
-> <a href="[https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1](https://docs.google.com/document/d/1JQXwTyEwkCUX524bAtq3OUqMfvrtiAvL/edit?usp=sharing&ouid=115407479434090785110&rtpof=true&sd=true)">Ссылка на проект</a>
+> <a href="https://docs.google.com/document/d/1JQXwTyEwkCUX524bAtq3OUqMfvrtiAvL/edit?usp=sharing&ouid=115407479434090785110&rtpof=true&sd=true">Ссылка на проект</a>
   
 
  <p>Итоги тестирования продукта:<p>
